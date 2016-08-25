@@ -1,4 +1,4 @@
-# route-label-sample
+# Project route-label-sample
 This is an example project on how to use route-label in your express app.
 
 # Installation
@@ -8,11 +8,11 @@ This is an example project on how to use route-label in your express app.
 3. Do `npm install`
 4. Start the application with `npm start`
 
-# File of Interest
+# File of Interests
 
-1. [app.js](https://github.com/cermati/route-label-sample/blob/master/app.js), where top level routing is done.
-2. [routes/users.js](https://github.com/cermati/route-label-sample/blob/master/routes/users.js), the user module and subrouting.
-3. [routes/products.js](https://github.com/cermati/route-label-sample/blob/master/routes/products.js), the user module and subrouting.
+1. [app.js](https://github.com/cermati/route-label-sample/blob/master/app.js): top level routing is done.
+2. [routes/users.js](https://github.com/cermati/route-label-sample/blob/master/routes/users.js): user module and subrouting.
+3. [routes/products.js](https://github.com/cermati/route-label-sample/blob/master/routes/products.js): product module and subrouting.
 
 The other files are just generated content from express.
 

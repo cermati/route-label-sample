@@ -10,7 +10,7 @@ This is an example project on how to use route-label in your express app.
 
 # File of Interests
 
-1. [app.js](https://github.com/cermati/route-label-sample/blob/master/app.js): top level routing is done.
+1. [app.js](https://github.com/cermati/route-label-sample/blob/master/app.js): top level routing.
 2. [routes/users.js](https://github.com/cermati/route-label-sample/blob/master/routes/users.js): user module and subrouting.
 3. [routes/products.js](https://github.com/cermati/route-label-sample/blob/master/routes/products.js): product module and subrouting.
 
